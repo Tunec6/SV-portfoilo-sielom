@@ -1,32 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body{
     background-image: url("./img/3d-abstract-wave-pattern-background.jpg");
-    background-size: 200vh;
-}
-
-header.h1{
-
-}
-
-header>img{
+    background-size: 192vh;
+    max-width: 1920px;
     width: 100%;
-    max-width: 1440px;
-    height: 1080px;
+    height: 1080;
+}
+
+header{
+
+}
+
+h1{
+    font-size: 64px;
+    color: white;
     display: flex;
-    align-content: center;
+    margin-top: 218px;
+    margin-left: 143px;
+    width: 311px;
+    height: 166px;
+}
+
+nav{
+    display: flex;
+    width: 144px;
+    height: 301px;
 }
 
 a.link{
-
+    display: flex;
+    width: 144px;
+    height: 301px;
 }
 
 main{
-
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.28);
+    padding-left: 42px;
+    padding-top: 25px;
+    margin-left: 490px;
+    margin-top: 70px;
+    width: 1179px;
+    height: 420px;
 }
 
-footer>img{
-
-}
-
-footer>p{
-
+p{
+    display: flex;
+    color: white;
+    font-size: 24px;
 }
