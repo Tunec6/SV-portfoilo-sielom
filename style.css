@@ -1,7 +1,6 @@
 body{
-    width: 100%;
-    max-width: 1440px;
-    height: 2427px;
+    background-image: url("./img/3d-abstract-wave-pattern-background.jpg");
+    background-size: 200vh;
 }
 
 header.h1{
@@ -9,7 +8,11 @@ header.h1{
 }
 
 header>img{
-
+    width: 100%;
+    max-width: 1440px;
+    height: 1080px;
+    display: flex;
+    align-content: center;
 }
 
 a.link{
