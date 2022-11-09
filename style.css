@@ -2,56 +2,21 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 body{
-    display: flex;
-    background-image: url("./img/3d-abstract-wave-pattern-background.jpg");
-    background-size: 199vh;
-    max-width: 1920px;
-    width: 100%;
-    height: 1080;
-}
-
-header{
-    display: flex;
+    background-color: black;  
 }
 
 h1{
-    font-size: 64px;
-    color: white;
-    display: flex;
-    margin-top: 218px;
-    margin-left: 143px;
-    width: 311px;
-    height: 166px;
-
+     
 }
 
-nav{
-    
-}
 
 a.link{
-    color:white;
     text-decoration: none;
-}
-
-main{
-    position: absolute;
-    left: 490px;
-    top: 384px;
-    padding-left: 42px;
-    padding-top: 25px;
-    display: flex;
-    background-color: rgba(255, 255, 255, 0.28);
-    max-width: 1179px;
-    width: 100%;
-    height: 420px;
-}
-
-p{
-    display: flex;
     color: white;
-    font-size: 24px;
+    display: flex;
+    margin: 100px;
 }
