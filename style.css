@@ -10,15 +10,7 @@ body{
 }l
 
 h1{
-    font-size: 65px;
-    color: white;
-    display: flex;
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-nav{
-    width: 100px;
+     
 }
 
 a.link{
@@ -26,11 +18,5 @@ a.link{
     text-decoration: none;
     color: white;
     display: flex;
-
-}
-
-p{
-    color: white;
-    display: flex;
-    margin-left: 150px;
+    margin: 100px;
 }
