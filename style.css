@@ -2,21 +2,32 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family:;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
-body{ 
-    background-image:url('./img/2021-10-20_14.30.39.png');
-}l
+body{
+    background-image: url('./img/2021-10-20_14.30.39.png');  
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
 
 h1{
-     
+    margin-top: 70px;
+    color: white;
+    display: flex;
+    justify-content: center;
 }
 
+
+
 a.link{
+    padding-left: 50px;
+    margin-right: 50px;
     font-size: 19px;
     text-decoration: none;
     color: white;
-    display: flex;
-    margin: 100px;
 }
