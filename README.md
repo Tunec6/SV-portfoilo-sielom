@@ -1,1 +1,0 @@
-# SV-portfoilo-sielom
